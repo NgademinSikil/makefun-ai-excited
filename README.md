@@ -26,6 +26,13 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 Two runs write byte-identical output. The image is a 1024×1024 PNG under
 1 MiB, and the program makes no network calls.
 
+## Recorded rebuild
+
+Rebuilt on 2026-11-16 in a recorded session (strict transcripts): `main.ts`
+and `generate_entry.py` were rewritten with new code structure, and
+`entry.png` was regenerated — verified byte-identical to the original
+artwork (same SHA-256), so the submitted image is unchanged.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
