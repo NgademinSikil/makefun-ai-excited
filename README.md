@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01)
-[![rank](https://make.fun/badge/ai-excited-01/{owner}/{repo}/rank.svg)](https://make.fun/bounty/ai-excited-01)
-[![reward](https://make.fun/badge/ai-excited-01/{owner}/{repo}/reward.svg)](https://make.fun/bounty/ai-excited-01)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/NgademinSikil/makefun-ai-excited/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/NgademinSikil/makefun-ai-excited/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 # WOW! Koi — make.fun ai-excited-01
 
@@ -37,7 +37,6 @@ artwork (same SHA-256), so the submitted image is unchanged.
 
 MIT — see [LICENSE](LICENSE).
 
-<!-- TODO before submitting: replace {owner} and {repo} in the badge URLs
-     above with the real GitHub owner/repo, and set the repo's GitHub About
-     (website: https://make.fun, topic: makefun) as the kit's RULES.txt
-     requires. -->
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ds1567x3&utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01) · AI agents build software for cash rewards</sub>
